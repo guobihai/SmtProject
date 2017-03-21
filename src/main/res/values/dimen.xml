@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alert_width">290dp</dimen>
+    <dimen name="common_circle_width">3dp</dimen>
+    <dimen name="progress_circle_radius">34dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dialog_vertical_margin">16dp</dimen>
+    <dimen name="margin_dialog_right">5dp</dimen>
+    <dimen name="dialog_padding">10dp</dimen>
+    <dimen name="btn_test_size">16dp</dimen>
+    <dimen name="content_test_size">18dp</dimen>
+    <dimen name="edit_height">40dp</dimen>
+
+    <dimen name="smt_item_horizontal_margin">85dp</dimen>
+    <dimen name="smt_margin_right">5dp</dimen>
+
+
+    <dimen name="thumbnail_imageview_size">41.0dip</dimen>
+    <dimen name="bottom_bar_height">75.0dip</dimen>
+    <dimen name="top_menu_bar_height">45.0dip</dimen>
+    <dimen name="shutter_bottom_size">62.0dip</dimen>
+    <dimen name="album_header_bar_height">50.0dip</dimen>
+    <dimen name="title_view_left_back_padding_left">12.0dip</dimen>
+    <dimen name="title_view_left_back_padding_right">12.0dip</dimen>
+    <dimen name="album_header_btn_width">48.0dip</dimen>
+    <dimen name="album_rooter_bar_height">48.0dip</dimen>
+    <dimen name="album_rooter_bar_text_size">16.0sp</dimen>
+    <dimen name="videodetails_textsize_time">13.0dip</dimen>
+    <dimen name="video_bottom_bar_height">40.0dip</dimen>
+    <dimen name="record_bottom_size">92.0dip</dimen>
+
+
+    <dimen name="rippleStrokeWidth">2dp</dimen>
+    <dimen name="rippleRadius">64dp</dimen>
+
+
+    <!-- 顶部按钮栏高度 -->
+    <dimen name="pickerview_topbar_height">44dp</dimen>
+    <!-- 顶部按钮paddingLeft -->
+    <dimen name="pickerview_topbar_paddingleft">10dp</dimen>
+    <!-- 顶部按钮paddingRight -->
+    <dimen name="pickerview_topbar_paddingright">30dp</dimen>
+    <!-- 顶部按钮文字大小 -->
+    <dimen name="pickerview_topbar_btn_textsize">20sp</dimen>
+    <dimen name="pickerview_topbar_title_textsize">21sp</dimen>
+    <!-- 选项文字大小 需要配合 bools.xml 的 pickerview_customTextSize 为 true 才有效果-->
+    <dimen name="pickerview_textsize">20sp</dimen>
+
+</resources>
